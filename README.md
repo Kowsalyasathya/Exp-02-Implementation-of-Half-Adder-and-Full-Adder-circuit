@@ -61,10 +61,20 @@ endmodule
 ### RTL:
 #### Half adder:
 ![R3 1](https://github.com/Kowsalyasathya/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118671457/916230e2-45bb-4223-bcb1-80161d7f0d88)
-
-### TIMING DIAGRAM
-
-
+#### Full adder:
+![R3 1](https://github.com/Kowsalyasathya/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118671457/dca294e0-565f-4d36-bca0-9e581fb9b642)
 ### TRUTH TABLE 
+#### Half adder:
+![R3 2](https://github.com/Kowsalyasathya/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118671457/8d3ce1a7-14fa-4358-83e6-98ede74d1e1a)
+
+#### Full adder:
+![R3 3](https://github.com/Kowsalyasathya/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118671457/cc258e95-42fe-4369-b7f3-b43bbb6aeadd)
+### Waveform:
+#### Half adder:
+![R3 3](https://github.com/Kowsalyasathya/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118671457/449f24fe-1ffb-4132-93e0-6e45885c1e6e)
+
+#### Full adder:
+![R3 4](https://github.com/Kowsalyasathya/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118671457/64f957fd-0b6d-4832-a9b1-61726af57dfc)
 
 ### Result:
+Thus the Implementation of Half Adder and Full Adder circuit are studied and the truth table for different logic gates are verified.
