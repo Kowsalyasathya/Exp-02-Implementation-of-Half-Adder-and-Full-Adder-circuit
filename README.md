@@ -71,8 +71,7 @@ endmodule
 ![R3 3](https://github.com/Kowsalyasathya/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118671457/cc258e95-42fe-4369-b7f3-b43bbb6aeadd)
 ### Waveform:
 #### Half adder:
-![R3 3](https://github.com/Kowsalyasathya/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118671457/449f24fe-1ffb-4132-93e0-6e45885c1e6e)
-
+![R3](https://github.com/Kowsalyasathya/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118671457/b3fce5b3-8718-47b3-8d18-608d8e849518)
 #### Full adder:
 ![R3 4](https://github.com/Kowsalyasathya/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118671457/64f957fd-0b6d-4832-a9b1-61726af57dfc)
 
